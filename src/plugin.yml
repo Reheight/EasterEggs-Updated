@@ -1,0 +1,10 @@
+name: FrootsEggs
+version: 1.0
+description: Froots Eggs - Custom Coded plugin by Reheight!
+main: me.reheight.frootseggs.Main
+
+commands:
+  frootseggs:
+    usage: /footseggs
+    description: Froots Eggs - Core Command!
+    aliases: [fe, feggs, egg, eggs, frootse, easteregg, ee, eegg, eastere]
